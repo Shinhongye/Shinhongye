@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,50:FFD700,100:32CD32&height=180&section=header&text=tutar25's%20Tech%20Lab%20🔬&fontSize=48&fontAlignY=50&fontColor=fff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,50:FFD700,100:32CD32&height=180&section=header&text=Shinhongye's%20Tech%20Lab%20🔬&fontSize=48&fontAlignY=50&fontColor=fff" width="100%" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ## 💡 About Me
 
 <div align="center">
-  Hello there! I'm <strong>tutar25</strong>, a passionate developer with a keen interest in building robust and scalable software solutions.<br/>
+  Hello there! I'm <strong>Shinhongye</strong>, a passionate developer with a keen interest in building robust and scalable software solutions.<br/>
   I enjoy delving into new technologies and contributing to the open-source community.<br/>
   Let's connect and create something amazing!
 </div>
@@ -91,20 +91,20 @@
 ## 📊 My GitHub in Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tutar25&show_icons=true&theme=dracula&hide_border=true&title_color=32CD32&icon_color=ADD8E6&text_color=FFD700&border_color=ADD8E6&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutar25&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=FFD700&icon_color=32CD32&text_color=ADD8E6&border_color=FFD700" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shinhongye&show_icons=true&theme=dracula&hide_border=true&title_color=32CD32&icon_color=ADD8E6&text_color=FFD700&border_color=ADD8E6&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinhongye&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=FFD700&icon_color=32CD32&text_color=ADD8E6&border_color=FFD700" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tutar25&theme=dracula&hide_border=true&border_color=32CD32" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinhongye&theme=dracula&hide_border=true&border_color=32CD32" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutar25&theme=dracula" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shinhongye&theme=dracula" height="165"/>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/tutar25?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=ADD8E6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Shinhongye?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=ADD8E6&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@
 ## 🏆 My GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=tutar25&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"/>
+<img src="https://github-profile-trophy.vercel.app?username=Shinhongye&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"/>
 </div>
 
 <p align="center">
